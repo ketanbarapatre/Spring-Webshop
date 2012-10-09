@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/usvn/svn/red/!svn/ver/141/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/red/!svn/ver/123/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/logback.xml
+END
+spring-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/spring-servlet.xml
+END

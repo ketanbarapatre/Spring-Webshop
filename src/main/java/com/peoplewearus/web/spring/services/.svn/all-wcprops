@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/usvn/svn/red/!svn/ver/143/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services
+END
+ECommerceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/usvn/svn/red/!svn/ver/148/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/ECommerceService.java
+END
+ProductRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/usvn/svn/red/!svn/ver/148/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/ProductRepository.java
+END
+LoginRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/LoginRepository.java
+END
+AdminRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usvn/svn/red/!svn/ver/145/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/AdminRepository.java
+END
+OrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/usvn/svn/red/!svn/ver/146/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/OrderRepository.java
+END
+UserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/usvn/svn/red/!svn/ver/143/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/services/UserRepository.java
+END

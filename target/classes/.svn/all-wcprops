@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/usvn/svn/red/!svn/ver/123/trunk/WebShop%20v4/target/classes
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/usvn/svn/red/!svn/ver/123/trunk/WebShop%20v4/target/classes/logback.xml
+END
+spring-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/usvn/svn/red/!svn/ver/123/trunk/WebShop%20v4/target/classes/spring-servlet.xml
+END

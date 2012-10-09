@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain
+END
+Order.class
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/Order.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/User.class
+END
+Product.class
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/Product.class
+END
+ShoppingCart.class
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/ShoppingCart.class
+END
+UserForm.class
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/UserForm.class
+END
+ProductForm.class
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/domain/ProductForm.class
+END

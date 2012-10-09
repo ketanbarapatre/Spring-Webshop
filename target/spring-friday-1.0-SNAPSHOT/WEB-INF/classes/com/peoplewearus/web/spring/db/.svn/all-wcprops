@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/db
+END
+SqlUserRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/db/SqlUserRepository.class
+END
+SqlProductRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/db/SqlProductRepository.class
+END
+SqlLoginRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/db/SqlLoginRepository.class
+END
+ConnectionManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/WEB-INF/classes/com/peoplewearus/web/spring/db/ConnectionManager.class
+END

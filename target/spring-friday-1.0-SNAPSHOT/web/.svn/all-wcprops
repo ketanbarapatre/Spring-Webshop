@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web
+END
+createUserForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/createUserForm.jsp
+END
+userConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/userConfirmation.jsp
+END
+background.gif
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/background.gif
+END
+header.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/header.jsp
+END
+adminHeader.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/adminHeader.jsp
+END
+getProductForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/getProductForm.jsp
+END
+displayAllUsersForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayAllUsersForm.jsp
+END
+displayProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayProduct.jsp
+END
+displayAllProductsForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayAllProductsForm.jsp
+END
+showOrder.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/showOrder.jsp
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/styles.css
+END
+adminLogin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/adminLogin.jsp
+END
+jquery-1.4.2.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/jquery-1.4.2.min.js
+END
+enterUserInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/enterUserInfo.jsp
+END
+createProductForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/createProductForm.jsp
+END
+productConfirmation.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/productConfirmation.jsp
+END
+welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/welcome.jsp
+END
+loginIndex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/loginIndex.jsp
+END
+userForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/userForm.jsp
+END
+getUserForm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/getUserForm.jsp
+END
+displayUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayUser.jsp
+END
+searchProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/searchProduct.jsp
+END
+displayUpdateUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayUpdateUser.jsp
+END
+cartContents.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/cartContents.jsp
+END
+displayUpdateProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayUpdateProduct.jsp
+END
+json.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/json.min.js
+END
+productAddedToCart.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/productAddedToCart.jsp
+END
+getProduct.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/getProduct.jsp
+END
+finish.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/finish.jsp
+END
+displayAllUsers.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayAllUsers.jsp
+END
+adminIndex.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/usvn/svn/red/!svn/ver/139/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/adminIndex.jsp
+END
+displayAllProducts.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/displayAllProducts.jsp
+END
+squares.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/target/spring-friday-1.0-SNAPSHOT/web/squares.jsp
+END

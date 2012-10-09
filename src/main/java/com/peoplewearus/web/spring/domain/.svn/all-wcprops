@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/usvn/svn/red/!svn/ver/141/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain
+END
+Product.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/usvn/svn/red/!svn/ver/148/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/Product.java
+END
+ShoppingCart.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/usvn/svn/red/!svn/ver/146/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/ShoppingCart.java
+END
+Orderline.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/usvn/svn/red/!svn/ver/146/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/Orderline.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/141/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/Admin.java
+END
+Order.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/usvn/svn/red/!svn/ver/146/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/Order.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/domain/User.java
+END

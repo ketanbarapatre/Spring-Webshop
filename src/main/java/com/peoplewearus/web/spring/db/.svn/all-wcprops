@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/usvn/svn/red/!svn/ver/143/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db
+END
+SqlProductRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/usvn/svn/red/!svn/ver/148/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/SqlProductRepository.java
+END
+SqlLoginRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usvn/svn/red/!svn/ver/138/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/SqlLoginRepository.java
+END
+SqlAdminRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usvn/svn/red/!svn/ver/145/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/SqlAdminRepository.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usvn/svn/red/!svn/ver/123/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/ConnectionManager.java
+END
+SqlOrderRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/usvn/svn/red/!svn/ver/148/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/SqlOrderRepository.java
+END
+SqlUserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/usvn/svn/red/!svn/ver/145/trunk/WebShop%20v4/src/main/java/com/peoplewearus/web/spring/db/SqlUserRepository.java
+END
